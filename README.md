@@ -1,7 +1,7 @@
 # 🧪 Cypress SauceDemo Web
 
 Automação de testes end-to-end (E2E) desenvolvida com **Cypress** no site [SauceDemo](https://www.saucedemo.com/).  
-Este projeto segue uma arquitetura limpa e modular, utilizando o padrão **Page Object Model**, **Custom Commands**, e suporte a **execução seletiva por tags** com o plugin `@cypress/grep`.
+Este projeto segue uma arquitetura limpa e modular, utilizando o padrão **Page Object Model**, **Custom Commands**, e suporte a **execução seletiva por tags** com o plugin `@cypress/grep` além de CI/CD configurado para execução no Github Actions.
 
 ---
 

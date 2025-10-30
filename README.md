@@ -33,7 +33,7 @@ npm install
 
 - Abrir Cypress no modo Interativo:
 npm run open
-# ou
+ou
 npx cypress open
 
 - Executar apenas os smoke tests
